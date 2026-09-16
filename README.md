@@ -1,8 +1,10 @@
 2026-09-16
 
-<!-- notify 1/2 · 0hKlFM2B -->
-## Notification 1/2
-Round: Round 1
-To: moprotect-shop@yahoo.com, mopsmommy5@yahoo.com
-At: 2026-09-16 17:39:13
-Id: 0hKlFM2B
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: mopunic07@yahoo.com, moquigley1118@yahoo.com
+At: 2026-09-16 17:39:21
+Id: emZqGdlZ
